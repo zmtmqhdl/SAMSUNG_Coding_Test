@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/c79fc106-ef74-44dd-a4a8-b5ead3c5bec5" width="40%">
+  <img src="https://github.com/user-attachments/assets/c79fc106-ef74-44dd-a4a8-b5ead3c5bec5" width="40%">
 </p>
 
 <h1 align="center" style="font-family: 'Gungsuh', sans-serif;">SAMSUNG Coding Test</h1>
