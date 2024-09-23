@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/user-attachments/assets/c79fc106-ef74-44dd-a4a8-b5ead3c5bec5" width="40%">
+<p align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/c79fc106-ef74-44dd-a4a8-b5ead3c5bec5" width="40%">
+</p>
 
 <h1 align="center" style="font-family: 'Gungsuh', sans-serif;">SAMSUNG Coding Test</h1>
 <h3 align="center" style="font-family: 'Gungsuh', sans-serif;">Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 정답을 맞춘 코드들 모음</h3>
