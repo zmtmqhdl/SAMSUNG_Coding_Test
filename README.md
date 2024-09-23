@@ -8,7 +8,7 @@
 
 
 ## 📁 코드 목록
-- [격자 숫자 놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B2%A9%EC%9E%90_%EB%88%92%EC%9E%90_%EB%86%80%EC%9D%B4.py)
+- [격자 숫자 놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B2%A9%EC%9E%90%20%EC%88%AB%EC%9E%90%20%EB%86%80%EC%9D%B4.py)
 - [나무 타이쿤](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%82%98%EB%AC%B4_%ED%83%80%EC%9D%B4%EC%BF%A8.py)
 - [나무박멸](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%82%98%EB%AC%B4%EB%B0%95%EB%A9%B8.py)
 - [놀이기구 탑승](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_%ED%83%91%EC%8A%B9.py)
