@@ -7,8 +7,6 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 
 <br>
 
-
-
 ## 📁 코드 목록
 - [격자 숫자 놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B2%A9%EC%9E%90_%EC%88%AB%EC%9E%90_%EB%86%80%EC%9D%B4.py)
 - [나무 타이쿤](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%82%98%EB%AC%B4_%ED%83%80%EC%9D%B4%EC%BF%A4.py)
