@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">SAMSUNG Coding Test </h1>
-<h3 align="center">Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 맞춘 정답 코드들 모음</h3></h3>
+<h3 align="center">Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 정답을 맞춘 코드들 모음</h3></h3>
