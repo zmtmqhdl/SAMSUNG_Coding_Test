@@ -5,6 +5,8 @@
 <h1 align="center" style="font-family: 'Gungsuh', sans-serif;">SAMSUNG Coding Test</h1>
 <h3 align="center" style="font-family: 'Gungsuh', sans-serif;">Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 정답을 맞춘 코드들 모음</h3>
 
+<br>
+
 
 
 ## 📁 코드 목록
@@ -30,6 +32,7 @@
 - [테트리스 블럭 안의 합 최대화 하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%20%EB%B8%94%EB%9F%AD%20%EC%95%88%EC%9D%98%20%ED%95%A9%20%EC%B5%9C%EB%8C%80%ED%99%94%20%ED%95%98%EA%B8%B0.py)
 - [토스트 계란틀](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%86%A0%EC%8A%A4%ED%8A%B8%20%EA%B3%84%EB%9E%80%ED%8B%80.py)
 
+<br>
 
 ## 🛠️ 사용 기술
 - Python
