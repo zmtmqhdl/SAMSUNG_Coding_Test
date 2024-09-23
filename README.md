@@ -34,7 +34,5 @@
 
 <br>
 
-## 🛠️ 사용 언어 및 지식
-- Python
-- 알고리즘
-- 데이터 구조
+## 🛠️ 사용 기술
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
