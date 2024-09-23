@@ -8,7 +8,6 @@
 
 
 ## 📁 코드 목록
-<ul>
   <li>• [격자_숫자_놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B2%A9%EC%9E%90_%EB%88%92%EC%9E%90_%EB%86%80%EC%9D%B4.py)</li>
   <li>• [드래곤_커브](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%93%9C%EB%9E%98%EA%B3%A4_%EC%BB%A4%EB%B8%8C.py)</li>
   <li>• [나무_타이쿤](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%82%98%EB%AC%B4_%ED%83%80%EC%9D%B4%EC%BF%A8.py)</li>
@@ -25,7 +24,6 @@
   <li>• [테트리스_블럭_안의_합_최대화_하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4_%EB%B8%94%EB%A1%9D_%EC%95%88%EC%9D%98_%ED%95%A9_%EC%B5%9C%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0.py)</li>
   <li>• [토스트_계란틀](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%86%A0%EC%8A%A4%ED%8A%B8_%EA%B3%84%EB%9E%80%ED%8B%80.py)</li>
   <li>• [원자_충돌](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9B%90%EC%9E%90_%EC%B6%A9%EB%8F%8C.py)</li>
-</ul>
 
 ## 🛠️ 사용 기술
 - Python
