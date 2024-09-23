@@ -25,6 +25,7 @@
 - [테트리스 블럭 안의 합 최대화 하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4_%EB%B8%94%EB%A1%9D_%EC%95%88%EC%9D%98_%ED%95%A9_%EC%B5%9C%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0.py)
 - [토스트 계란틀](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%86%A0%EC%8A%A4%ED%8A%B8_%EA%B3%84%EB%9E%80%ED%8B%80.py)
 
+
 ## 🛠️ 사용 기술
 - Python
 - 알고리즘
