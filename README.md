@@ -19,6 +19,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [바이러스 백신](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_%EB%B0%B1%EC%8B%A0.py)
 - [방화벽 설치하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B0%A9%ED%99%94%EB%B2%BD_%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.py)
 - [병원 거리 최소화하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B3%91%EC%9B%90_%EA%B1%B0%EB%A6%AC_%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0.py)
+- [보도블럭](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B3%B4%EB%8F%84%EB%B8%94%EB%9F%AD.py)
 - [불안한 무빙워크](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B6%88%EC%95%88%ED%95%9C_%EB%AC%B4%EB%B9%99%EC%9B%8C%ED%81%AC.py)
 - [시공의 돌풍](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%8B%9C%EA%B3%B5%EC%9D%98_%EB%8F%8C%ED%92%8D.py)
 - [원자 충돌](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9B%90%EC%9E%90_%EC%B6%A9%EB%8F%8C.py)
