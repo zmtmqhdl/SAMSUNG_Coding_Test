@@ -15,6 +15,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [놀이기구 탑승](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_%ED%83%91%EC%8A%B9.py)
 - [돌아가는 팔각의자](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94_%ED%8C%94%EA%B0%81%EC%9D%98%EC%9E%90.py)
 - [드래곤 커브](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%93%9C%EB%9E%98%EA%B3%A4_%EC%BB%A4%EB%B8%8C.py)
+- [디버깅](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%94%94%EB%B2%84%EA%B9%85.py)
 - [바이러스 검사](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_%EA%B2%80%EC%82%AC.py)
 - [바이러스 백신](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_%EB%B0%B1%EC%8B%A0.py)
 - [방화벽 설치하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B0%A9%ED%99%94%EB%B2%BD_%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.py)
