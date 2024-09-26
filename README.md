@@ -7,6 +7,14 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 
 <br>
 
+## 🧑‍💻 참여 인원
+|  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
+|:---:|
+| 김태훈 |
+| Back-End, Front-End|
+
+<br>
+
 ## 📁 코드 목록
 - [격자 숫자 놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B2%A9%EC%9E%90_%EC%88%AB%EC%9E%90_%EB%86%80%EC%9D%B4.py)
 - [고대 문명 탐사](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EA%B3%A0%EB%8C%80_%EB%AC%B8%EB%AA%85_%EC%9C%A0%EC%A0%81_%ED%83%90%EC%82%AC.py)
