@@ -36,6 +36,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [연산자 배치하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%97%B0%EC%82%B0%EC%9E%90_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)
 - [이상한 체스](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9D%B4%EC%83%81%ED%95%9C_%EC%B2%B4%EC%8A%A4.py)
 - [자율주행 자동차](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89_%EC%9E%90%EB%8F%99%EC%B0%A8.py)
+- [전투_로봇](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A0%84%ED%88%AC_%EB%A1%9C%EB%B4%87.py)
 - [정육면체 굴리기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4_%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)
 - [조삼모사](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC.py)
 - [테트리스 블럭 안의 합 최대화 하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4_%EB%B8%94%EB%9F%AD_%EC%95%88%EC%9D%98_%ED%95%A9_%EC%B5%9C%EB%8C%80%ED%99%94_%ED%95%98%EA%B8%B0.py)
