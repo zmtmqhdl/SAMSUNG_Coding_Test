@@ -30,6 +30,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [병원 거리 최소화하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B3%91%EC%9B%90_%EA%B1%B0%EB%A6%AC_%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0.py)
 - [보도블럭](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B3%B4%EB%8F%84%EB%B8%94%EB%9F%AD.py)
 - [불안한 무빙워크](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EB%B6%88%EC%95%88%ED%95%9C_%EB%AC%B4%EB%B9%99%EC%9B%8C%ED%81%AC.py)
+- [생명과학부 랩 인턴](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%80_%EB%9E%A9_%EC%9D%B8%ED%84%B4.py)
 - [시공의 돌풍](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%8B%9C%EA%B3%B5%EC%9D%98_%EB%8F%8C%ED%92%8D.py)
 - [원자 충돌](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9B%90%EC%9E%90_%EC%B6%A9%EB%8F%8C.py)
 - [외주 수익 최대화하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%99%B8%EC%A3%BC_%EC%88%98%EC%9D%B5_%EC%B5%9C%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0.py)
