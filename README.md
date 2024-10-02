@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a52bd63b-f7c8-44fc-a7ac-10a82cd15811" width="30%">
+  <img src="https://github.com/user-attachments/assets/a52bd63b-f7c8-44fc-a7ac-10a82cd15811" width="50%">
 </p>
 
 ## 🖥️ SAMSUNG Coding Test
