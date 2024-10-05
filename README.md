@@ -40,6 +40,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [전투 로봇](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A0%84%ED%88%AC_%EB%A1%9C%EB%B4%87.py)
 - [정육면체 굴리기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4_%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)
 - [조삼모사](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC.py)
+- [종전](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A2%85%EC%A0%84.py)
 - [테트리스 블럭 안의 합 최대화 하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4_%EB%B8%94%EB%9F%AD_%EC%95%88%EC%9D%98_%ED%95%A9_%EC%B5%9C%EB%8C%80%ED%99%94_%ED%95%98%EA%B8%B0.py)
 - [토스트 계란틀](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%ED%86%A0%EC%8A%A4%ED%8A%B8_%EA%B3%84%EB%9E%80%ED%8B%80.py)
 
