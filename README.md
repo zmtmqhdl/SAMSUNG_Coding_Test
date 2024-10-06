@@ -35,6 +35,7 @@ Python을 사용하여 SAMSUNG Coding Test를 풀이해보며 작성한 정답 �
 - [원자 충돌](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9B%90%EC%9E%90_%EC%B6%A9%EB%8F%8C.py)
 - [외주 수익 최대화하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%99%B8%EC%A3%BC_%EC%88%98%EC%9D%B5_%EC%B5%9C%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0.py)
 - [연산자 배치하기](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%97%B0%EC%82%B0%EC%9E%90_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)
+- [이상한 윷놀이](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%9C%B7%EB%86%80%EC%9D%B4.py)
 - [이상한 체스](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9D%B4%EC%83%81%ED%95%9C_%EC%B2%B4%EC%8A%A4.py)
 - [자율주행 자동차](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89_%EC%9E%90%EB%8F%99%EC%B0%A8.py)
 - [전투 로봇](https://github.com/zmtmqhdl/SAMSUNG_Coding_Test/blob/main/%EC%A0%84%ED%88%AC_%EB%A1%9C%EB%B4%87.py)
